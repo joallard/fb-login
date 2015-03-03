@@ -1,6 +1,7 @@
 {
   "name": "fb-login",
   "version": "0.1.0",
+  "main": "build/fb-login.js",
   "authors": [
     "Jonathan Allard <jonathan@allard.io>"
   ],
