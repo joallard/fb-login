@@ -16,6 +16,6 @@
     "grunt-contrib-clean"
   ],
   "peerDependencies": {
-    "lodash": ">= 2.0"
+    "lodash.where": ">= 2.0"
   }
 }
