@@ -9,13 +9,13 @@
   "author": "Jonathan Allard <jonathan@allard.io>",
   "license": "AGPL",
   "repository": "https://github.com/joallard/fb-login.git",
-  "devDependencies": [
-    "grunt",
-    "grunt-bower",
-    "grunt-contrib-coffee",
-    "grunt-contrib-clean"
-  ],
-  "peerDependencies": {
+  "devDependencies": {
+    "grunt": "",
+    "grunt-bower": "",
+    "grunt-contrib-coffee": "",
+    "grunt-contrib-clean": ""
+  },
+  "dependencies": {
     "lodash.where": ">= 2.0"
   }
 }
